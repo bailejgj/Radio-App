@@ -1,0 +1,54 @@
+﻿<Window x:Class="RadioWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioWPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <!--Adding custom images for power button click-->
+    <Window.Resources>
+        <Image x:Key="On" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\OnButton1.jpg" Height="50" Width="50" />
+        <Image x:Key="Off" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\OffButton1.jpg" Height="50" Width="50"/>
+        <Image x:Key="Chan1" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\Channel1.jpg" Height="25" Width="25"/>
+        <Image x:Key="Chan2" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\Channel2.jpg" Height="25" Width="25"/>
+        <Image x:Key="Chan3" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\Channel3.jpg" Height="25" Width="25"/>
+        <Image x:Key="Chan4" Source="C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\New Radio\Channel4.jpg" Height="25" Width="25"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="WoodenBackGround.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <!--Button for powering on-->
+        <Button x:Name="powerButton" HorizontalAlignment="Center" Margin="0,260,0,0" VerticalAlignment="Top" Height="40" Width="60" Click="PowerButton_Click">
+            <DynamicResource ResourceKey="Off"/>
+        </Button>
+
+        <!--Display box-->
+        <TextBlock x:Name="On_Off_Text" HorizontalAlignment="Center" Text="Radio Is Off" TextWrapping="Wrap" VerticalAlignment="Center" Height="34" Width="122" TextAlignment="Center" FontWeight="Bold" Background="#FF858585"/>
+
+        <!--Buttons for channel swap-->
+        <Button x:Name="Chan1" HorizontalAlignment="Left" Margin="125,150,0,0" VerticalAlignment="Top" Click="Chan1_Click">
+            <DynamicResource ResourceKey="Chan1"/>
+        </Button>
+        <Button x:Name="Chan2" HorizontalAlignment="Left" Margin="125,200,0,0" VerticalAlignment="Top" Click="Chan2_Click">
+            <DynamicResource ResourceKey="Chan2"/>
+        </Button>
+        <Button x:Name="Chan3" HorizontalAlignment="Left" Margin="125,250,0,0" VerticalAlignment="Top" Click="Chan3_Click">
+            <DynamicResource ResourceKey="Chan3"/>
+        </Button>
+        <Button x:Name="Chan4" HorizontalAlignment="Left" Margin="127,300,0,0" VerticalAlignment="Top" Click="Chan4_Click">
+            <DynamicResource ResourceKey="Chan4"/>
+        </Button>
+
+        <!--Volume Control-->
+        <TextBox x:Name="vBox"  Text="0" TextAlignment="Center" Margin="688,268,79,124"/>
+        <Button x:Name="VUp" Content="+" HorizontalAlignment="Left" Margin="721,270,0,0" VerticalAlignment="Top" Click="VUp_Click" Height="30" Width="19"/>
+        <Button x:Name="VDown" Content="-" HorizontalAlignment="Left" Margin="663,270,0,0" VerticalAlignment="Top" Click="VDown_Click" Height="30" Width="20"/>
+        <MediaElement x:Name="MediaElement" LoadedBehavior="Manual" HorizontalAlignment="Left" Height="100" Margin="673,10,0,0" VerticalAlignment="Top" Width="100"/>
+
+
+    </Grid>
+</Window>

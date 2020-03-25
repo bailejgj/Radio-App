@@ -1,0 +1,37 @@
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.exe
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.deps.json
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.runtimeconfig.json
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.runtimeconfig.dev.json
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.dll
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.pdb
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp_MarkupCompile.cache
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp_MarkupCompile.lref
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.g.resources
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.AssemblyInfoInputs.cache
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.AssemblyInfo.cs
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.dll
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.pdb
+C:\Users\CLF\Documents\CLF\CSharpJan2020Materials\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.csprojAssemblyReference.cache
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.exe
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.deps.json
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.runtimeconfig.json
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.runtimeconfig.dev.json
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.dll
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\RadioWPFApp.pdb
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp_MarkupCompile.cache
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp_MarkupCompile.lref
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.g.resources
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.AssemblyInfoInputs.cache
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.AssemblyInfo.cs
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.dll
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.pdb
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.csproj.CopyComplete
+C:\Users\TECH-W51-BIRM\Documents\Class Notes\week 5 C# Framework\Cathys Radio\RadioWPF\RadioWPFApp\obj\Debug\netcoreapp3.1\RadioWPFApp.csprojAssemblyReference.cache
